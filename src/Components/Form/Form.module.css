@@ -1,0 +1,22 @@
+form {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+.inputs {
+     margin: 0.3rem 0;
+     padding: 0.4rem 0.3rem;
+     text-align: center;
+     border-radius: 0.3rem;
+     border: none;
+}
+.files {
+     margin: 0.3rem 0;
+     padding: 0.4rem 0.3rem;
+     text-align: center;
+     border-radius: 0.3rem;
+     border: none;
+     background-color: white;
+     width: 170px;
+}
